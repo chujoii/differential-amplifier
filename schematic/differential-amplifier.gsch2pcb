@@ -1,0 +1,4 @@
+schematics differential-amplifier.sch
+elements-dir /home/chujoii/project/geda/footprints-geda
+elements-dir /home/chujoii/project/geda/footprints-my
+output-name differential-amplifier
