@@ -10,7 +10,7 @@ device=RESISTOR
 T 43800 54000 5 10 1 1 0 0 1
 refdes=R101
 T 43800 53700 5 10 1 1 0 0 1
-netname=100k
+netname=1k
 T 43600 53700 5 10 0 1 0 0 1
 footprint=0805xs
 }
@@ -21,7 +21,7 @@ device=RESISTOR
 T 43800 53600 5 10 1 1 0 0 1
 refdes=R102
 T 43800 53300 5 10 1 1 0 0 1
-netname=100k
+netname=1k
 T 43600 53300 5 10 0 1 0 0 1
 footprint=0805xs
 }
@@ -54,7 +54,7 @@ device=RESISTOR
 T 43800 51000 5 10 1 1 0 0 1
 refdes=R105
 T 43800 50700 5 10 1 1 0 0 1
-netname=100k
+netname=1k
 T 43600 50700 5 10 0 1 0 0 1
 footprint=0805xs
 }
@@ -65,7 +65,7 @@ device=RESISTOR
 T 43800 50600 5 10 1 1 0 0 1
 refdes=R106
 T 43800 50300 5 10 1 1 0 0 1
-netname=100k
+netname=1k
 T 43600 50300 5 10 0 1 0 0 1
 footprint=0805xs
 }
@@ -98,7 +98,7 @@ device=RESISTOR
 T 43800 48000 5 10 1 1 0 0 1
 refdes=R109
 T 43800 47700 5 10 1 1 0 0 1
-netname=100k
+netname=1k
 T 43600 47700 5 10 0 1 0 0 1
 footprint=0805xs
 }
@@ -109,7 +109,7 @@ device=RESISTOR
 T 43800 47600 5 10 1 1 0 0 1
 refdes=R110
 T 43800 47300 5 10 1 1 0 0 1
-netname=100k
+netname=1k
 T 43600 47300 5 10 0 1 0 0 1
 footprint=0805xs
 }
@@ -142,7 +142,7 @@ device=RESISTOR
 T 43800 45000 5 10 1 1 0 0 1
 refdes=R113
 T 43800 44700 5 10 1 1 0 0 1
-netname=100k
+netname=1k
 T 43600 44700 5 10 0 1 0 0 1
 footprint=0805xs
 }
@@ -153,7 +153,7 @@ device=RESISTOR
 T 43800 44600 5 10 1 1 0 0 1
 refdes=R114
 T 43800 44300 5 10 1 1 0 0 1
-netname=100k
+netname=1k
 T 43600 44300 5 10 0 1 0 0 1
 footprint=0805xs
 }
@@ -502,8 +502,8 @@ N 51500 49800 50600 49800 4
 N 50600 49800 50600 49400 4
 N 49100 53700 50700 53700 4
 N 50700 53700 50700 53300 4
-C 34400 42200 1 0 0 title-bordered-A2.sym
+C 35700 41400 1 0 0 title-bordered-A2.sym
 {
-T 54500 42500 5 10 1 1 0 0 1
+T 55800 41700 5 10 1 1 0 0 1
 author=Приходченко Р.В.
 }
